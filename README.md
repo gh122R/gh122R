@@ -4,13 +4,16 @@
 - 🌱 Изучаю: **Laravel**
 - 👀 Внимательно наблюдаю за: **Slim**
 - 👨‍💻 Мои проекты: [github.com/gh122R](https://github.com/gh122R)
-- 📫 Контакт: **gh122.r507@gmail.com**
+- 📫 Почта: **gh122.r507@gmail.com**
 
 ---
 
-## 🤝 Связаться со мной
+## 🤨 Связаться со мной
 
-- [dev.to/@gh122r507](https://dev.to/@gh122r507)
+- 🌐 [dev.to/@gh122r507](https://dev.to/@gh122r507)
+- 💬 [t.me/gh122r](https://t.me/gh122r)
+- ✉️ [Почта (gh122.r507@gmail.com)](mailto:gh122.r507@gmail.com)
+- 👥 [vk.com/gh122](https://vk.com/gh122)
 
 ---
 
@@ -22,8 +25,6 @@
 - Dev-инструменты: `Git`, `Docker`, `Postman`, `Figma`, `Linux`
 
 ---
-
-## 📊 GitHub Статистика
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=gh122R&show_icons=true&locale=en&layout=compact)
 
