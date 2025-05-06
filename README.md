@@ -1,7 +1,8 @@
 ## 🚀  Обо мне
 
 - 🔭 Сейчас работаю над: **VirexA** — микро-фреймворк на PHP
-- 🌱 Изучаю: **Laravel, MVC, Docker**
+- 🌱 Изучаю: **Laravel**
+- 👀 Внимательно наблюдаю за: **Slim**
 - 👨‍💻 Мои проекты: [github.com/gh122R](https://github.com/gh122R)
 - 📫 Контакт: **gh122.r507@gmail.com**
 
@@ -24,9 +25,9 @@
 
 ## 📊 GitHub Статистика
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=gh122&show_icons=true&locale=en&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=gh122R&show_icons=true&locale=en&layout=compact)
 
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=gh122)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=gh122R)
 
 ---
 
